@@ -70,7 +70,7 @@ const hanjaset = [
 ]
 
 const misc = {
-	hanjaList:  "壓入邑澁挿涉摂濕襲習執輯捷踏納逼乏",
+	hanjaList:  "壓入邑澁插涉攝濕襲習執輯捷踏納逼乏",
 	hangulList: "압입읍삽삽섭섭습습습집집첩답납핍핍"	
 }
 
