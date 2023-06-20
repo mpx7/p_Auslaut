@@ -21,8 +21,8 @@ const hanjaset = [
 	},
 	{
 		shengfu: "立",
-		hanjaList:  "立粒笠拉泣妾",
-		hangulList: "립립립랍읍첩"		
+		hanjaList:  "立粒笠拉泣妾接",
+		hangulList: "립립립랍읍첩접"		
 	},
 	{
 		shengfu: "集",

@@ -1,5 +1,7 @@
 # -p 韻尾早見表
 
+[ブラウザで開く](https://mpx7.github.io/p_Auslaut/)
+
 ## Was ist diese Tabelle?
 韓国漢字音が ㅂ パッチムで終わるものから**独断と偏見**で数十個選び，声符を基準に分類した表です。
 
