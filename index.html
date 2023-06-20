@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+	<meta charset="utf-8">
+	<title>-p 韻尾</title>
+	<style>
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	body{
+		background-color: #fcfdff;
+		color: #080808;
+		font-family: "Noto Serif CJK KR", serif;
+		font-size: 1.2em;
+	}
+	dl{
+		display: grid;
+		grid-auto-flow: column;
+		grid-template-rows: repeat(2, 1fr);
+		justify-content: left;
+		column-gap: 1.6em;
+	}
+	dt{
+		margin-top: 0.5em;
+	}
+	dd{
+		color: orangered;
+	}
+	article{
+		width: 75%;
+		margin: 0 auto;
+	}
+	section#table-wrapper{
+		padding-top: 1em;
+		display: grid;
+		row-gap: 0.3em;
+		grid-template-columns: repeat(auto-fit, minmax(24em, 1fr));
+	}
+	section#misc{
+		width: fit-content;
+		margin: 0 auto;
+		padding: 1.4em;
+		padding-left: 0.35em;
+	}
+	section > div{
+		display: grid;
+		grid-auto-flow: column;
+		grid-template-columns: auto 100%;
+	}
+	div > h2{
+		display: block;
+		margin: 0.5em 1em;
+		background-color: mediumblue;
+		color: #fff;
+		border-radius: 50%;
+		padding: 0.25em 0.5em;
+		padding-top: 0.125em;
+		padding-left: 0.45em;
+	}
+	h1{
+		text-align: center;
+		font-size: 2em;
+		padding: 0.75em 0 0.5em;
+	}
+	</style>
+	</head>
+	<body>
+	<article>
+	<h1>-p 韻尾 早見表</h1>
+	<section id="table-wrapper">
+	</section>
+	<section id="misc">
+	</section>
+	</article>
+	<script src="database.js" charset="utf-8"></script>
+	</body>
+</html>
