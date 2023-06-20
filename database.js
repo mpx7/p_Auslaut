@@ -35,7 +35,7 @@ const hanjaset = [
 		hangulList: "급급급급급흡"		
 	},
 	{
-		shengfu: "葉",
+		shengfu: "枼",
 		hanjaList:  "葉蝶牒諜",
 		hangulList: "엽접첩첩"		
 	},
